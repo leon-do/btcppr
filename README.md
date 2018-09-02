@@ -1,1 +1,1 @@
-bitcoin paper
+http://www.bitcoinpaper.ink/
